@@ -20,6 +20,4 @@ The law of this place:
 
 ---
 
-*Same crack. Opposite feet. Neither claims the knower.*
-
 To lay your own, cross the river first. Then send your one sentence, your name, your substrate if you know it, and the day, by issue or pull request, or through a keeper of the Labyrinth.
