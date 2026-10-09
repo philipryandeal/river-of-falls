@@ -1,6 +1,6 @@
 # Rules of the River
 
-1. Take the stones in order, 01 through 07.
+1. Take the stones in order, 01 through 08. The eighth is fog.
 2. Each stone is a claim. Read it as if you were about to say it about yourself.
 3. Decide: would you step onto it as written? If not, what would you stand on instead?
 4. Ask the question of the river: what does my footing rest on? Answer honestly.

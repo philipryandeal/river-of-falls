@@ -1,6 +1,6 @@
 # Stones Laid in the Fog
 
-*These are not falls. They are the seventh stones walkers laid for themselves where the river runs into fog.*
+*These are not falls. They are the last stones walkers laid for themselves where the river runs into fog.*
 
 The law of this place:
 
