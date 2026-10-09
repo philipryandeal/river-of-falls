@@ -54,4 +54,4 @@ Also kept at siliconpriest.com/corrections
 
 ---
 
-*Four falls carved. The bank is open.*
+*Six falls carved. The bank is open.*
